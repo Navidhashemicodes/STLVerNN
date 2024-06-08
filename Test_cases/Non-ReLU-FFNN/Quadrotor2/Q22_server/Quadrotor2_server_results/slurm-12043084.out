@@ -1,0 +1,5385 @@
+==========================================
+SLURM_JOB_ID = 12043084
+SLURM_JOB_NODELIST = d06-28
+TMPDIR = /tmp/SLURM_12043084
+==========================================
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more information, click <a href="matlab:opengl('problems')">here</a>.] 
+
+ans = 
+
+  tree with properties:
+
+      Node: {422x1 cell}
+    Parent: [422x1 double]
+
+     1
+
+     2
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.8132e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5462e-07
+
+     3
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.1288e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.1235e-09
+
+     4
+
+     5
+
+     6
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.2021e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.6813e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0209e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.8170e-09
+
+     7
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.9984e-12
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.9294e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   3.5793e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4782e-08
+
+     8
+
+     9
+
+    10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.0588e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.2232e-07
+
+    11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   6.9654e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5604e-09
+
+    12
+
+    13
+
+    14
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   4.2189e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7866e-07
+
+    15
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6060e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0267e-09
+
+    16
+
+    17
+
+    18
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.4535e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1649e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.0817e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6251e-07
+
+    19
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5487e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   4.2585e-09
+
+    20
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   3.0729e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.7375e-09
+
+    21
+
+    22
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4898e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1398e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0523e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   4.5697e-09
+
+    23
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4109e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   8.6517e-11
+
+    24
+
+    25
+
+    26
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.7754e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.6160e-09
+
+    27
+
+    28
+
+    29
+
+    30
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5931e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.4843e-10
+
+    31
+
+    32
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.1254e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6763e-08
+
+    33
+
+    34
+
+    35
+
+    36
+
+    37
+
+    38
+
+    39
+
+    40
+
+    41
+
+    42
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3565e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.1990e-08
+
+    43
+
+    44
+
+    45
+
+    46
+
+    47
+
+    48
+
+    49
+
+    50
+
+    51
+
+    52
+
+    53
+
+    54
+
+    55
+
+    56
+
+    57
+
+    58
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.6797e-12
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.4479e-08
+
+    59
+
+    60
+
+    61
+
+    62
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.1368e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.5365e-07
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4843e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.0089e-08
+
+    63
+
+    64
+
+    65
+
+    66
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.0597e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3727e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3746e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.8715e-10
+
+    67
+
+    68
+
+    69
+
+    70
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   3.6392e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.9794e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5955e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   9.8300e-10
+
+    71
+
+    72
+
+    73
+
+    74
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2937e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   9.4698e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.7401e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.9438e-09
+
+    75
+
+    76
+
+    77
+
+    78
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3993e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0028e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   4.4777e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.8680e-07
+
+    79
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6234e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   3.4458e-10
+
+    80
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 933             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 933             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 933               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.18              dense det. time        : 0.00            
+Factor     - ML order time          : 0.04              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  3.14  
+1   2.1e+00  5.1e-01  0.0e+00  -3.21e-02  -1.388513185e+00  -3.396723429e-01  4.1e-01  11.36 
+2   7.6e-01  1.9e-01  1.2e-15  -5.81e-02  -1.976006505e+00  -8.864447572e-01  1.5e-01  19.49 
+3   3.4e-01  8.5e-02  9.2e-15  -4.82e-02  -2.522917502e+00  -1.415792567e+00  6.8e-02  27.76 
+4   1.8e-01  4.4e-02  6.9e-15  -5.50e-02  -3.128794980e+00  -1.976154555e+00  3.5e-02  35.98 
+5   1.6e-01  3.9e-02  6.2e-15  -1.12e-01  -3.307234971e+00  -2.133543414e+00  3.2e-02  44.33 
+6   6.9e-02  1.7e-02  5.0e-15  -1.26e-01  -5.034068109e+00  -3.655577105e+00  1.4e-02  52.90 
+7   2.9e-02  7.3e-03  5.9e-15  -2.59e-01  -9.969571073e+00  -8.084462183e+00  5.9e-03  61.08 
+8   2.1e-02  5.2e-03  9.3e-15  -3.20e-01  -1.625073948e+01  -1.413550821e+01  4.2e-03  69.32 
+9   8.9e-03  2.2e-03  7.3e-16  -3.19e-01  -5.456106997e+01  -5.147021957e+01  1.8e-03  77.54 
+10  5.2e-03  1.3e-03  2.1e-14  -4.84e-01  -1.922072648e+02  -1.868464403e+02  1.0e-03  85.88 
+11  4.0e-03  1.0e-03  1.2e-14  -7.68e-01  -2.549385420e+02  -2.478971449e+02  8.1e-04  93.96 
+12  1.7e-03  4.2e-04  6.6e-16  -7.77e-01  -7.093826020e+02  -6.947586821e+02  3.3e-04  102.04
+13  1.0e-03  2.5e-04  2.0e-14  -8.06e-01  -1.324695361e+03  -1.302350197e+03  2.0e-04  110.18
+14  7.0e-04  1.7e-04  1.7e-12  -8.82e-01  -2.050983355e+03  -2.018654348e+03  1.4e-04  118.37
+15  1.8e-04  4.5e-05  7.4e-13  -8.78e-01  -7.864871071e+03  -7.761472719e+03  3.6e-05  126.58
+16  4.3e-05  1.1e-05  1.2e-11  -7.31e-01  -2.238517768e+04  -2.213899765e+04  8.6e-06  134.85
+17  2.3e-05  5.7e-06  9.5e-12  -9.65e-02  -2.373250152e+04  -2.353553827e+04  4.5e-06  143.09
+18  1.4e-05  3.6e-06  6.2e-12  3.66e-01   -2.252827926e+04  -2.238899193e+04  2.9e-06  151.27
+19  9.3e-06  2.3e-06  3.4e-12  5.87e-01   -1.814136315e+04  -1.804016464e+04  1.9e-06  159.56
+20  7.2e-06  1.8e-06  2.3e-12  9.23e-01   -1.715346083e+04  -1.708180414e+04  1.4e-06  167.84
+21  3.3e-06  8.2e-07  7.2e-13  9.09e-01   -1.266730991e+04  -1.263166453e+04  6.5e-07  175.82
+22  1.8e-06  4.6e-07  3.7e-13  9.18e-01   -1.008570108e+04  -1.006298934e+04  3.7e-07  184.05
+23  9.6e-07  2.4e-07  1.4e-13  9.45e-01   -8.098742518e+03  -8.085874487e+03  1.9e-07  192.11
+24  4.5e-07  1.1e-07  9.3e-14  8.12e-01   -6.451494238e+03  -6.443718310e+03  8.9e-08  200.26
+25  3.3e-07  8.3e-08  4.9e-14  9.67e-01   -6.050221112e+03  -6.044601502e+03  6.6e-08  208.50
+26  1.3e-07  3.2e-08  1.6e-14  7.69e-01   -5.081986083e+03  -5.078784379e+03  2.6e-08  216.64
+27  9.1e-08  2.3e-08  2.0e-14  8.35e-01   -4.784407989e+03  -4.782027181e+03  1.8e-08  224.86
+28  3.7e-08  9.3e-09  6.4e-15  7.02e-01   -4.299483045e+03  -4.298077985e+03  7.4e-09  232.91
+29  2.4e-08  6.1e-09  8.8e-16  6.85e-01   -4.128641283e+03  -4.127570829e+03  4.8e-09  240.98
+30  1.1e-08  2.8e-09  1.1e-15  6.44e-01   -3.895487599e+03  -3.894827541e+03  2.2e-09  249.02
+31  7.4e-09  1.9e-09  5.5e-16  6.81e-01   -3.805669801e+03  -3.805167125e+03  1.5e-09  257.07
+32  3.3e-09  8.3e-10  1.2e-16  6.22e-01   -3.670206078e+03  -3.669886471e+03  6.7e-10  264.97
+33  2.7e-09  9.0e-10  3.3e-15  7.12e-01   -3.642664272e+03  -3.642397277e+03  5.4e-10  272.95
+34  1.2e-09  5.4e-10  9.3e-16  6.39e-01   -3.558505847e+03  -3.558336985e+03  2.4e-10  281.01
+35  8.0e-10  7.3e-09  2.7e-16  7.73e-01   -3.540434607e+03  -3.540301297e+03  1.7e-10  290.72
+36  6.8e-10  2.7e-09  2.3e-16  7.59e-01   -3.531626175e+03  -3.531508518e+03  1.5e-10  315.24
+37  6.8e-10  2.7e-09  2.3e-16  7.59e-01   -3.531626175e+03  -3.531508518e+03  1.5e-10  401.77
+38  6.8e-10  2.7e-09  2.3e-16  7.59e-01   -3.531626175e+03  -3.531508518e+03  1.5e-10  485.29
+Optimizer terminated. Time: 570.87  
+
+
+Interior-point solution summary
+  Problem status  : UNKNOWN
+  Solution status : UNKNOWN
+  Primal.  obj: -3.5316261753e+03   nrm: 4e+03    Viol.  con: 2e-03    var: 5e-04    barvar: 0e+00  
+  Dual.    obj: -3.5315085181e+03   nrm: 1e+06    Viol.  con: 0e+00    var: 3e-11    barvar: 8e-05  
+Optimizer summary
+  Optimizer                 -                        time: 570.87  
+    Interior-point          - iterations : 39        time: 570.85  
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+[Warning: File: /home1/navidhas/Personal_Trapezius_toolbox_time_variant/Lip_Verify_adaptive1.m Line: 80 Column: 10
+The temporary variable 'Lip1' will be cleared at the beginning of each iteration of the parfor-loop. If 'Lip1' is used before it is set, a runtime error will occur. For more
+information, see Parallel for Loops in MATLAB, "Uninitialized Temporaries".] 
+[> In test_Lip_Verify37 (line 210)] 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 12).
+     1
+
+     1
+
+     1
+
+     1
+
+     1
+
+     1
+
+     1
+
+     1
+
+     2
+
+     3
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.1870e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.9262e-08
+
+     4
+
+     5
+
+     6
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5859e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3927e-07
+
+     7
+
+     8
+
+     9
+
+    10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+     2
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3080e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   6.7418e-09
+
+     3
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2410e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3629e-07
+
+     4
+
+     5
+
+     6
+
+     7
+
+     8
+
+     9
+
+    10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+     2
+
+     3
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2184e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.7388e-08
+
+     4
+
+     5
+
+     6
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.0700e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2921e-08
+
+     7
+
+     8
+
+     9
+
+    10
+
+     2
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.5873e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0079e-08
+
+     3
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5761e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1782e-07
+
+     4
+
+     5
+
+     6
+
+     7
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3745e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+     2
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3610e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.5615e-08
+
+     3
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.9649e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0091e-09
+
+     4
+
+     5
+
+     6
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.1078e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.7891e-08
+
+     7
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+     2
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.3731e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3170e-07
+
+     3
+
+     4
+
+     5
+
+     6
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.7804e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.1458e-08
+
+     7
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+     2
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5324e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.1757e-08
+
+     3
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6689e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   6.7002e-09
+
+     4
+
+     5
+
+     6
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5075e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.9615e-09
+
+     7
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.5117e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4039e-08
+
+     8
+
+     9
+
+     2
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.8794e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5451e-07
+
+     3
+
+     4
+
+     5
+
+     6
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.7368e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.7020e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3066e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7296e-07
+
+     7
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5606e-13
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.9481e-09
+
+    11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.1990e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1959e-09
+
+    12
+
+    13
+
+    14
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.5652e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0425e-09
+
+    15
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.6899e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4618e-07
+
+    16
+
+    17
+
+    18
+
+   4.8941e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1371e-07
+
+    11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7823e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3741e-10
+
+    12
+
+    13
+
+    14
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5581e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.6912e-07
+
+    15
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5611e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   9.1668e-08
+
+    16
+
+    17
+
+    18
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0051e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.2285e-08
+
+    11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.2197e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3796e-08
+
+    12
+
+    13
+
+    14
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.2192e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.9626e-08
+
+    15
+
+    16
+
+    17
+
+   7.2195e-08
+
+     8
+
+     9
+
+    10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.2672e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.9912e-08
+
+    11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6106e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0891e-08
+
+    12
+
+    13
+
+    14
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.9345e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.8917e-08
+
+    15
+
+    16
+
+    17
+
+   1.4484e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3107e-10
+
+     8
+
+     9
+
+    10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3729e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.4939e-10
+
+    11
+
+    12
+
+    13
+
+    14
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7131e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3852e-08
+
+    15
+
+    16
+
+    17
+
+   1.1822e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.8352e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1958e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3655e-08
+
+     8
+
+     9
+
+    10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6107e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2441e-07
+
+    11
+
+    12
+
+    13
+
+    14
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    10
+
+    11
+
+    12
+
+    13
+
+    14
+
+    15
+
+    16
+
+    17
+
+    18
+
+   1.7744e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.1783e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.9521e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.9017e-09
+
+     8
+
+     9
+
+    10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1120e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.0079e-08
+
+    11
+
+    12
+
+    13
+
+    14
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.4236e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.5990e-09
+
+    15
+
+    16
+
+    17
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   6.6388e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.1680e-09
+
+    19
+
+    20
+
+    21
+
+    22
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.9711e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.4699e-07
+
+    19
+
+    20
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7711e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.8739e-09
+
+    21
+
+    22
+
+    23
+
+    18
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4281e-12
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.1096e-08
+
+    19
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4375e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.4533e-08
+
+    20
+
+    21
+
+    22
+
+    18
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0510e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.7305e-08
+
+    19
+
+    20
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5468e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5361e-08
+
+    21
+
+    22
+
+    18
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1028e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.9433e-10
+
+    19
+
+    20
+
+    21
+
+    22
+
+   5.0317e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   9.1366e-08
+
+    15
+
+    16
+
+    17
+
+    18
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    19
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.1197e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.2281e-08
+
+    20
+
+    21
+
+    22
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    18
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4306e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2363e-08
+
+    19
+
+    20
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6770e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.1088e-08
+
+    21
+
+    22
+
+   2.2160e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4190e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6021e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.7528e-08
+
+    23
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.4488e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.2474e-08
+
+    24
+
+    25
+
+    26
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.9218e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3639e-10
+
+    23
+
+    24
+
+    25
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3797e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2951e-07
+
+    23
+
+    24
+
+    25
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.0291e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3657e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0660e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.6495e-08
+
+    23
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6039e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.8995e-08
+
+    24
+
+    25
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.3678e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   6.2953e-08
+
+    23
+
+    24
+
+    25
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5699e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4853e-08
+
+    24
+
+    25
+
+    26
+
+   5.5576e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3964e-07
+
+    19
+
+    20
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   8.1748e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   9.4937e-10
+
+    21
+
+    22
+
+   1.5301e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.5314e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1519e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.2731e-08
+
+    23
+
+    24
+
+    25
+
+    26
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.9072e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6959e-07
+
+    27
+
+    28
+
+    29
+
+    27
+
+    28
+
+    26
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0448e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.0859e-08
+
+    27
+
+    28
+
+    26
+
+    27
+
+    28
+
+    26
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5522e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.4934e-07
+
+    27
+
+    28
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1508e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3732e-08
+
+    23
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.7470e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3105e-08
+
+    27
+
+    28
+
+    26
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.5212e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.1063e-07
+
+    27
+
+    28
+
+    30
+
+    31
+
+    29
+
+    30
+
+    29
+
+    30
+
+    29
+
+    30
+
+    29
+
+    30
+
+   2.3065e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1674e-11
+
+    24
+
+    25
+
+    26
+
+    29
+
+    30
+
+    29
+
+    30
+
+    31
+
+    32
+
+    31
+
+    32
+
+    31
+
+    32
+
+    31
+
+    32
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4160e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.1880e-07
+
+    31
+
+    32
+
+    31
+
+    32
+
+    32
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    27
+
+    28
+
+    33
+
+    34
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6108e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.5592e-08
+
+    33
+
+    34
+
+    33
+
+    34
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4012e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.0516e-08
+
+    33
+
+    34
+
+    29
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.1963e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.8074e-08
+
+    33
+
+    34
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.8860e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.8560e-08
+
+    33
+
+    34
+
+   5.6198e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.7989e-08
+
+    33
+
+    34
+
+    35
+
+    35
+
+    36
+
+    35
+
+    36
+
+    35
+
+    36
+
+    35
+
+    36
+
+    30
+
+    31
+
+    35
+
+    36
+
+    35
+
+    36
+
+    36
+
+    37
+
+    37
+
+    37
+
+    37
+
+    37
+
+    32
+
+    37
+
+    37
+
+    38
+
+    38
+
+    38
+
+    38
+
+    38
+
+    38
+
+    38
+
+    39
+
+    39
+
+    39
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    39
+
+    40
+
+    39
+
+    39
+
+   4.5595e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.0966e-08
+
+    33
+
+    34
+
+    40
+
+    39
+
+    41
+
+    40
+
+    40
+
+    40
+
+    40
+
+    40
+
+    41
+
+    41
+
+    41
+
+    41
+
+    35
+
+    41
+
+    42
+
+    42
+
+    41
+
+    43
+
+    42
+
+    42
+
+    42
+
+    42
+
+    36
+
+    42
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    43
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    43
+
+    37
+
+    43
+
+    44
+
+    44
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.7056e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.0773e-08
+
+    43
+
+    44
+
+    44
+
+   5.2058e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.5129e-08
+
+    43
+
+    44
+
+    44
+
+    38
+
+   5.2676e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.5776e-08
+
+    43
+
+    44
+
+    45
+
+    45
+
+    46
+
+    45
+
+    45
+
+    45
+
+    45
+
+    39
+
+    45
+
+    46
+
+    47
+
+    46
+
+    46
+
+    46
+
+    46
+
+    46
+
+    40
+
+    47
+
+    48
+
+    47
+
+    47
+
+    47
+
+    47
+
+    47
+
+    41
+
+    48
+
+    48
+
+    48
+
+    48
+
+    48
+
+    48
+
+    49
+
+    49
+
+    49
+
+    49
+
+    49
+
+    49
+
+    42
+
+    50
+
+    49
+
+    50
+
+    50
+
+    50
+
+    50
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    50
+
+    51
+
+    50
+
+    51
+
+    51
+
+    51
+
+    51
+
+    51
+
+   4.7982e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.1453e-08
+
+    43
+
+    44
+
+    51
+
+    52
+
+    52
+
+    52
+
+    52
+
+    52
+
+    53
+
+    52
+
+    45
+
+    52
+
+    53
+
+    53
+
+    53
+
+    53
+
+    53
+
+    46
+
+    54
+
+    53
+
+    47
+
+    54
+
+    54
+
+    54
+
+    54
+
+    54
+
+    54
+
+    55
+
+    48
+
+    55
+
+    55
+
+    55
+
+    55
+
+    56
+
+    55
+
+    49
+
+    55
+
+    56
+
+    56
+
+    56
+
+    56
+
+    50
+
+    57
+
+    56
+
+    51
+
+    57
+
+    56
+
+    57
+
+    58
+
+    57
+
+    57
+
+    57
+
+    52
+
+    58
+
+    58
+
+    58
+
+    58
+
+    59
+
+    53
+
+    58
+
+    57
+
+    59
+
+    59
+
+    54
+
+    60
+
+    59
+
+    59
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    55
+
+    60
+
+    60
+
+    58
+
+    60
+
+    61
+
+    60
+
+   3.4213e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.8124e-08
+
+    59
+
+    60
+
+    56
+
+    61
+
+    61
+
+    62
+
+    61
+
+    61
+
+    61
+
+    59
+
+    57
+
+    62
+
+    62
+
+    63
+
+    62
+
+    62
+
+    58
+
+    62
+
+    63
+
+    60
+
+    63
+
+    59
+
+    64
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    64
+
+    60
+
+    64
+
+    65
+
+   5.5708e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.3910e-08
+
+    63
+
+    64
+
+   4.4463e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.1109e-09
+
+    63
+
+    64
+
+   5.6241e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.7955e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2914e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.4175e-08
+
+    63
+
+    64
+
+    61
+
+    61
+
+    65
+
+    66
+
+    65
+
+    65
+
+    65
+
+    65
+
+    62
+
+    66
+
+    62
+
+    66
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    66
+
+    66
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    66
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6519e-10
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.8293e-08
+
+    67
+
+    68
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.7063e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.4973e-08
+
+    63
+
+    64
+
+    67
+
+    63
+
+    67
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1617e-11
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   7.3285e-08
+
+    67
+
+    68
+
+    69
+
+   2.5959e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4638e-08
+
+    67
+
+    68
+
+    65
+
+    68
+
+    68
+
+   7.7484e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2213e-08
+
+    67
+
+    68
+
+    64
+
+    69
+
+    66
+
+    70
+
+    69
+
+    69
+
+    69
+
+    70
+
+    69
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    71
+
+    65
+
+    70
+
+    70
+
+    70
+
+    70
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2677e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.3505e-08
+
+    67
+
+    68
+
+    72
+
+    71
+
+    71
+
+    66
+
+    71
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    69
+
+   4.6897e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0737e-07
+
+    71
+
+    72
+
+    73
+
+    72
+
+    72
+
+    72
+
+    70
+
+    73
+
+   1.0737e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2647e-09
+
+    71
+
+    72
+
+    67
+
+    74
+
+    73
+
+    73
+
+    73
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    74
+
+    73
+
+    68
+
+    75
+
+    74
+
+    74
+
+    74
+
+   7.1459e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.3653e-08
+
+    71
+
+    72
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    74
+
+    76
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    73
+
+    75
+
+    69
+
+    75
+
+   2.3003e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   7.9719e-09
+
+    75
+
+    76
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    77
+
+   5.5728e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.3948e-07
+
+    75
+
+    76
+
+    74
+
+    76
+
+    76
+
+    70
+
+    77
+
+   1.4174e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.4494e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.6032e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5215e-07
+
+    75
+
+    76
+
+    78
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    77
+
+    77
+
+    77
+
+    78
+
+    77
+
+    71
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.1463e-11
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5205e-10
+
+    75
+
+    76
+
+    78
+
+    78
+
+    78
+
+    79
+
+    78
+
+   7.8455e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.5269e-08
+
+    79
+
+    80
+
+    77
+
+    72
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    80
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    78
+
+   3.9140e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.0925e-09
+
+    79
+
+    80
+
+   5.3761e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.9027e-07
+
+    79
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+    73
+
+   2.9868e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   8.2328e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   4.1843e-10
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.6162e-08
+
+    79
+
+    80
+
+   1.8006e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   1.2874e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6973e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.6451e-09
+
+    79
+
+    80
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+    74
+
+   1.1694e-08
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   2.8901e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   5.2678e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   9.5996e-08
+
+    79
+
+    80
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+   2.4604e-09
+
+
+Initial point is a local minimum that satisfies the constraints.
+
+Optimization completed because at the initial point, the objective function is non-decreasing 
+in feasible directions to within the value of the optimality tolerance, and 
+constraints are satisfied to within the value of the constraint tolerance.
+
+   3.0439e-08
+
+    75
+
+    76
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+    77
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+   5.3779e-09
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   5.5897e-09
+
+    80
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+    78
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   1.1477e-08
+
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+   6.8496e-08
+
+    79
+
+    80
+
+exact reachability analysis for Layer 1 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 848             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 848             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 848               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.22              dense det. time        : 0.00            
+Factor     - ML order time          : 0.05              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  4.00  
+1   2.1e+00  5.1e-01  3.4e-16  -3.23e-02  -1.388257729e+00  -3.386934359e-01  4.1e-01  14.50 
+2   3.9e-01  9.7e-02  7.1e-15  -5.74e-02  -2.329250338e+00  -1.212683241e+00  7.8e-02  25.77 
+3   1.9e-01  4.7e-02  5.6e-14  -2.73e-02  -2.922142946e+00  -1.749726238e+00  3.7e-02  39.59 
+4   1.6e-01  4.0e-02  5.5e-14  -1.45e-01  -3.204188272e+00  -1.988465771e+00  3.2e-02  54.77 
+5   7.8e-02  2.0e-02  2.4e-14  -1.68e-01  -4.769548201e+00  -3.301202829e+00  1.6e-02  69.70 
+6   4.2e-02  1.1e-02  1.3e-14  -1.94e-01  -6.870313478e+00  -5.266109051e+00  8.5e-03  84.65 
+7   1.8e-02  4.4e-03  9.6e-15  -1.02e-01  -1.187723398e+01  -1.029126303e+01  3.6e-03  99.57 
+8   1.2e-02  3.0e-03  3.0e-14  -5.61e-03  -1.848102905e+01  -1.684698487e+01  2.4e-03  113.82
+9   4.1e-03  1.0e-03  1.4e-14  -5.88e-02  -5.070377675e+01  -4.881776904e+01  8.2e-04  128.42
+10  2.3e-03  5.8e-04  1.2e-13  -1.22e-01  -9.722968524e+01  -9.499937573e+01  4.6e-04  143.99
+11  1.6e-03  3.9e-04  7.5e-14  -2.14e-01  -1.219670805e+02  -1.196180639e+02  3.2e-04  160.15
+12  6.2e-04  1.5e-04  2.9e-14  -5.14e-02  -1.627440216e+02  -1.608620997e+02  1.2e-04  175.93
+13  3.9e-04  9.8e-05  1.2e-14  5.41e-01   -1.441950095e+02  -1.429373145e+02  7.8e-05  190.81
+14  2.1e-04  5.2e-05  6.8e-15  8.05e-01   -1.123891919e+02  -1.117238653e+02  4.2e-05  206.61
+15  1.6e-04  4.0e-05  3.9e-15  9.04e-01   -1.023529453e+02  -1.018319683e+02  3.2e-05  221.70
+16  7.5e-05  1.9e-05  2.5e-15  8.18e-01   -7.290946815e+01  -7.259914062e+01  1.5e-05  236.79
+17  4.7e-05  1.2e-05  2.8e-15  1.16e+00   -5.873054546e+01  -5.855185760e+01  9.5e-06  250.61
+18  1.9e-05  4.7e-06  1.4e-15  8.65e-01   -4.296342190e+01  -4.286801355e+01  3.7e-06  264.71
+19  8.3e-06  2.1e-06  2.2e-19  8.31e-01   -3.361940347e+01  -3.356874564e+01  1.7e-06  279.33
+20  4.9e-06  1.2e-06  9.5e-16  8.33e-01   -2.946592879e+01  -2.943297079e+01  9.8e-07  293.94
+21  2.4e-06  5.9e-07  4.9e-16  7.05e-01   -2.537714393e+01  -2.535606270e+01  4.7e-07  310.95
+22  1.8e-06  4.5e-07  3.8e-16  8.85e-01   -2.435432558e+01  -2.433811213e+01  3.6e-07  326.71
+23  5.8e-07  1.5e-07  9.4e-17  7.49e-01   -2.110042657e+01  -2.109284498e+01  1.2e-07  342.12
+24  3.2e-07  8.0e-08  3.2e-16  6.57e-01   -1.989648987e+01  -1.989094683e+01  6.4e-08  357.42
+25  1.7e-07  4.3e-08  1.5e-16  7.27e-01   -1.900107048e+01  -1.899749107e+01  3.4e-08  373.13
+26  7.0e-08  1.8e-08  3.0e-17  6.50e-01   -1.812345702e+01  -1.812132729e+01  1.4e-08  389.24
+27  4.5e-08  1.1e-08  2.9e-17  6.41e-01   -1.782382995e+01  -1.782220830e+01  9.0e-09  405.49
+28  1.9e-08  4.7e-09  2.3e-18  5.81e-01   -1.736381046e+01  -1.736277943e+01  3.8e-09  421.33
+29  1.4e-08  3.5e-09  6.8e-18  6.67e-01   -1.724435059e+01  -1.724352202e+01  2.8e-09  437.13
+30  5.0e-09  1.3e-09  1.3e-19  5.95e-01   -1.696364281e+01  -1.696315739e+01  1.0e-09  452.42
+31  3.6e-09  1.1e-09  1.3e-17  5.88e-01   -1.689019175e+01  -1.688978965e+01  7.2e-10  468.25
+32  1.4e-09  1.1e-09  2.2e-18  5.30e-01   -1.674129276e+01  -1.674103292e+01  2.8e-10  484.25
+33  9.8e-10  1.4e-08  1.7e-18  6.23e-01   -1.669803481e+01  -1.669782890e+01  2.0e-10  498.72
+34  3.6e-10  4.3e-09  1.5e-18  5.58e-01   -1.661295786e+01  -1.661283258e+01  7.2e-11  514.70
+35  1.8e-10  7.9e-09  2.0e-18  5.51e-01   -1.657693590e+01  -1.657684552e+01  3.7e-11  531.34
+36  8.6e-11  1.0e-08  5.8e-19  5.59e-01   -1.654768252e+01  -1.654762408e+01  1.7e-11  547.43
+37  8.0e-11  1.1e-08  3.3e-19  5.88e-01   -1.653716046e+01  -1.653711351e+01  1.2e-11  589.41
+38  8.0e-11  1.1e-08  3.3e-19  5.88e-01   -1.653716046e+01  -1.653711351e+01  1.2e-11  758.06
+39  8.0e-11  1.1e-08  3.3e-19  5.88e-01   -1.653716046e+01  -1.653711351e+01  1.2e-11  919.41
+Optimizer terminated. Time: 1093.91 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.6537160460e+01   nrm: 2e+01    Viol.  con: 1e-05    var: 2e-06    barvar: 0e+00  
+  Dual.    obj: -1.6537113508e+01   nrm: 5e+04    Viol.  con: 0e+00    var: 2e-12    barvar: 4e-11  
+Optimizer summary
+  Optimizer                 -                        time: 1093.91 
+    Interior-point          - iterations : 40        time: 1093.88 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 2 of 14 in STL ReLU network.
+exact reachability analysis for Layer 3 of 14 in STL ReLU network.
+exact reachability analysis for Layer 4 of 14 in STL ReLU network.
+exact reachability analysis for Layer 5 of 14 in STL ReLU network.
+exact reachability analysis for Layer 6 of 14 in STL ReLU network.
+exact reachability analysis for Layer 7 of 14 in STL ReLU network.
+exact reachability analysis for Layer 8 of 14 in STL ReLU network.
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 850             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 850             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 850               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.23              dense det. time        : 0.00            
+Factor     - ML order time          : 0.05              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  4.77  
+1   2.1e+00  5.1e-01  1.1e-16  -3.12e-02  -1.388202033e+00  -3.380750255e-01  4.1e-01  18.34 
+2   3.9e-01  9.7e-02  4.9e-15  -5.74e-02  -2.329191712e+00  -1.211692307e+00  7.8e-02  33.85 
+3   1.8e-01  4.6e-02  4.8e-14  -2.71e-02  -2.930146762e+00  -1.756576418e+00  3.7e-02  48.71 
+4   1.6e-01  3.9e-02  2.4e-14  -1.46e-01  -3.235431361e+00  -2.015928894e+00  3.1e-02  64.39 
+5   7.8e-02  2.0e-02  2.1e-14  -1.70e-01  -4.773731245e+00  -3.304695390e+00  1.6e-02  79.37 
+6   4.1e-02  1.0e-02  9.5e-15  -1.99e-01  -7.020816397e+00  -5.397253643e+00  8.2e-03  94.58 
+7   1.7e-02  4.2e-03  1.2e-14  -1.02e-01  -1.230179916e+01  -1.069866833e+01  3.4e-03  110.67
+8   1.1e-02  2.8e-03  2.0e-15  -4.25e-03  -1.958408510e+01  -1.793406292e+01  2.3e-03  126.42
+9   4.0e-03  9.9e-04  1.4e-14  -5.42e-02  -5.495035550e+01  -5.305562780e+01  7.9e-04  143.26
+10  2.2e-03  5.5e-04  2.1e-13  -1.06e-01  -1.030424971e+02  -1.008098982e+02  4.4e-04  159.34
+11  1.4e-03  3.5e-04  1.4e-13  -1.80e-01  -1.313479794e+02  -1.290820977e+02  2.8e-04  175.46
+12  5.7e-04  1.4e-04  2.3e-14  2.59e-02   -1.586478070e+02  -1.569681710e+02  1.1e-04  191.20
+13  3.7e-04  9.2e-05  5.7e-15  5.90e-01   -1.411261245e+02  -1.400006595e+02  7.4e-05  207.18
+14  1.9e-04  4.9e-05  3.6e-15  8.15e-01   -1.069851298e+02  -1.063750315e+02  3.9e-05  222.78
+15  1.6e-04  4.0e-05  2.4e-15  9.55e-01   -1.005946411e+02  -1.000949601e+02  3.2e-05  238.56
+16  7.3e-05  1.8e-05  7.9e-16  8.44e-01   -7.125325285e+01  -7.096250993e+01  1.5e-05  254.70
+17  4.7e-05  1.2e-05  1.5e-15  1.13e+00   -5.806392489e+01  -5.788937211e+01  9.3e-06  270.79
+18  1.8e-05  4.6e-06  5.5e-17  8.33e-01   -4.253939739e+01  -4.244392513e+01  3.7e-06  286.62
+19  1.0e-05  2.6e-06  8.4e-16  8.72e-01   -3.546248098e+01  -3.540546997e+01  2.1e-06  302.61
+20  4.4e-06  1.1e-06  3.1e-16  7.64e-01   -2.851723392e+01  -2.848570819e+01  8.7e-07  317.78
+21  3.3e-06  8.2e-07  3.0e-16  8.72e-01   -2.693785443e+01  -2.691393397e+01  6.6e-07  334.70
+22  1.2e-06  2.9e-07  3.8e-17  7.43e-01   -2.271615664e+01  -2.270404021e+01  2.3e-07  350.15
+23  7.6e-07  1.9e-07  2.7e-16  7.86e-01   -2.153002915e+01  -2.152098822e+01  1.5e-07  366.22
+24  3.3e-07  8.3e-08  9.5e-17  6.97e-01   -1.977399128e+01  -1.976861899e+01  6.6e-08  383.46
+25  1.5e-07  3.7e-08  2.6e-17  6.64e-01   -1.865398423e+01  -1.865063847e+01  3.0e-08  400.15
+26  1.1e-07  2.9e-08  6.3e-17  7.26e-01   -1.839643720e+01  -1.839365421e+01  2.3e-08  415.36
+27  4.7e-08  1.2e-08  1.3e-17  6.40e-01   -1.768570014e+01  -1.768401842e+01  9.4e-09  431.56
+28  3.4e-08  8.6e-09  1.1e-17  6.57e-01   -1.750468579e+01  -1.750330865e+01  6.9e-09  449.09
+29  1.4e-08  3.4e-09  6.6e-18  5.85e-01   -1.708848106e+01  -1.708763500e+01  2.7e-09  467.13
+30  9.2e-09  3.0e-09  1.5e-17  6.53e-01   -1.695777355e+01  -1.695711596e+01  1.8e-09  483.93
+31  3.3e-09  9.9e-10  7.5e-18  5.81e-01   -1.671970814e+01  -1.671932190e+01  6.6e-10  500.74
+32  1.9e-09  2.5e-09  9.3e-19  5.57e-01   -1.663122667e+01  -1.663092789e+01  3.9e-10  517.44
+33  7.7e-10  8.4e-10  5.1e-19  5.37e-01   -1.651846976e+01  -1.651828116e+01  1.5e-10  534.43
+34  5.5e-10  8.7e-09  1.7e-18  5.85e-01   -1.648769548e+01  -1.648754101e+01  1.1e-10  550.87
+35  2.0e-10  3.8e-09  1.3e-19  5.35e-01   -1.642654104e+01  -1.642644699e+01  4.0e-11  568.11
+36  1.4e-10  1.0e-08  1.2e-18  6.03e-01   -1.641167369e+01  -1.641159755e+01  2.8e-11  583.43
+37  8.5e-11  1.8e-08  3.4e-19  5.59e-01   -1.637802946e+01  -1.637798745e+01  9.8e-12  600.36
+38  8.5e-11  1.8e-08  3.4e-19  5.59e-01   -1.637802946e+01  -1.637798745e+01  9.8e-12  766.41
+39  8.5e-11  1.8e-08  3.4e-19  5.59e-01   -1.637802946e+01  -1.637798745e+01  9.8e-12  941.07
+Optimizer terminated. Time: 1115.34 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.6378029463e+01   nrm: 2e+01    Viol.  con: 1e-05    var: 1e-06    barvar: 0e+00  
+  Dual.    obj: -1.6377987448e+01   nrm: 5e+04    Viol.  con: 0e+00    var: 2e-12    barvar: 5e-11  
+Optimizer summary
+  Optimizer                 -                        time: 1115.34 
+    Interior-point          - iterations : 40        time: 1115.31 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 9 of 14 in STL ReLU network.
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 864             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 864             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 864               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.30              dense det. time        : 0.00            
+Factor     - ML order time          : 0.06              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  6.31  
+1   2.1e+00  5.1e-01  3.4e-16  -3.19e-02  -1.388400672e+00  -3.401437153e-01  4.1e-01  20.72 
+2   3.9e-01  9.7e-02  7.6e-16  -5.91e-02  -2.329145345e+00  -1.211881866e+00  7.8e-02  35.80 
+3   1.9e-01  4.7e-02  5.7e-14  -2.75e-02  -2.912613987e+00  -1.740300526e+00  3.8e-02  52.00 
+4   1.7e-01  4.2e-02  4.0e-14  -1.43e-01  -3.129297311e+00  -1.922952920e+00  3.3e-02  67.99 
+5   7.5e-02  1.9e-02  1.3e-14  -1.60e-01  -4.844770227e+00  -3.363845819e+00  1.5e-02  83.68 
+6   5.2e-02  1.3e-02  8.4e-15  -1.92e-01  -6.022912470e+00  -4.475662490e+00  1.0e-02  100.44
+7   2.1e-02  5.2e-03  6.3e-15  -1.46e-01  -1.039324034e+01  -8.761276636e+00  4.2e-03  116.39
+8   1.4e-02  3.6e-03  2.9e-16  -3.34e-02  -1.573138864e+01  -1.410253639e+01  2.9e-03  132.60
+9   5.1e-03  1.3e-03  1.7e-14  -2.58e-02  -4.370695012e+01  -4.192127513e+01  1.0e-03  148.96
+10  3.3e-03  8.3e-04  7.2e-13  -2.11e-01  -8.392433181e+01  -8.153443799e+01  6.6e-04  165.78
+11  1.3e-03  3.2e-04  3.4e-13  -3.88e-01  -1.962817046e+02  -1.931092722e+02  2.6e-04  181.81
+12  8.6e-04  2.1e-04  1.9e-13  6.98e-02   -2.023233011e+02  -1.998165679e+02  1.7e-04  198.47
+13  4.1e-04  1.0e-04  8.1e-14  2.93e-01   -1.955284145e+02  -1.939616402e+02  8.1e-05  214.72
+14  2.8e-04  7.0e-05  4.3e-14  6.85e-01   -1.773701844e+02  -1.762524605e+02  5.6e-05  230.63
+15  1.3e-04  3.4e-05  2.3e-14  7.50e-01   -1.302366097e+02  -1.296119002e+02  2.7e-05  245.84
+16  8.2e-05  2.0e-05  1.9e-14  1.04e+00   -1.051700450e+02  -1.048084963e+02  1.6e-05  261.87
+17  3.8e-05  9.4e-06  7.2e-15  8.10e-01   -7.647711979e+01  -7.625077069e+01  7.5e-06  278.11
+18  2.8e-05  6.9e-06  6.8e-15  1.13e+00   -6.751729707e+01  -6.735710238e+01  5.5e-06  295.76
+19  1.1e-05  2.6e-06  1.9e-15  9.35e-01   -4.990203019e+01  -4.982698872e+01  2.1e-06  312.20
+20  5.0e-06  1.3e-06  3.5e-16  7.16e-01   -4.173662291e+01  -4.168758389e+01  1.0e-06  328.69
+21  2.0e-06  5.1e-07  2.7e-16  8.12e-01   -3.458718314e+01  -3.456381335e+01  4.1e-07  344.90
+22  1.1e-06  2.8e-07  2.4e-16  6.91e-01   -3.176593339e+01  -3.174936791e+01  2.3e-07  362.50
+23  4.7e-07  1.2e-07  6.3e-17  6.64e-01   -2.867827792e+01  -2.866868070e+01  9.5e-08  380.17
+24  3.5e-07  8.7e-08  3.7e-16  7.60e-01   -2.789892579e+01  -2.789138046e+01  6.9e-08  396.57
+25  1.3e-07  3.2e-08  9.9e-17  6.79e-01   -2.597628129e+01  -2.597222454e+01  2.5e-08  413.41
+26  8.7e-08  2.2e-08  6.1e-17  6.81e-01   -2.550117693e+01  -2.549791568e+01  1.7e-08  429.69
+27  3.2e-08  8.1e-09  1.8e-17  6.19e-01   -2.451842108e+01  -2.451654976e+01  6.5e-09  446.25
+28  2.2e-08  5.4e-09  3.6e-17  6.71e-01   -2.425367628e+01  -2.425220248e+01  4.4e-09  463.29
+29  7.6e-09  2.1e-09  9.4e-18  5.89e-01   -2.372566980e+01  -2.372481559e+01  1.5e-09  479.90
+30  5.0e-09  2.0e-09  1.8e-18  6.16e-01   -2.357841213e+01  -2.357773309e+01  1.0e-09  496.93
+31  1.8e-09  7.2e-10  2.5e-18  5.52e-01   -2.331145903e+01  -2.331104891e+01  3.6e-10  512.78
+32  1.2e-09  3.1e-09  1.1e-17  6.06e-01   -2.322920053e+01  -2.322888056e+01  2.3e-10  528.77
+33  4.7e-10  6.2e-09  5.1e-18  5.25e-01   -2.309823162e+01  -2.309802199e+01  9.3e-11  546.31
+34  3.0e-10  5.0e-09  3.1e-18  5.89e-01   -2.305971599e+01  -2.305955371e+01  6.0e-11  563.63
+35  1.1e-10  2.6e-08  1.0e-18  5.42e-01   -2.298981750e+01  -2.298972375e+01  2.1e-11  579.66
+36  8.6e-11  4.2e-08  4.8e-19  5.82e-01   -2.296097146e+01  -2.296090750e+01  1.1e-11  597.60
+37  8.6e-11  4.2e-08  4.8e-19  5.82e-01   -2.296097146e+01  -2.296090750e+01  1.1e-11  766.89
+38  8.6e-11  4.2e-08  4.8e-19  5.82e-01   -2.296097146e+01  -2.296090750e+01  1.1e-11  934.81
+Optimizer terminated. Time: 1112.45 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -2.2960971459e+01   nrm: 4e+01    Viol.  con: 2e-05    var: 2e-06    barvar: 0e+00  
+  Dual.    obj: -2.2960907495e+01   nrm: 6e+04    Viol.  con: 0e+00    var: 2e-12    barvar: 9e-11  
+Optimizer summary
+  Optimizer                 -                        time: 1112.45 
+    Interior-point          - iterations : 39        time: 1112.42 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 856             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 856             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 856               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.24              dense det. time        : 0.00            
+Factor     - ML order time          : 0.06              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  5.57  
+1   2.0e+00  5.1e-01  1.1e-16  -3.30e-02  -1.389192308e+00  -3.412808720e-01  4.1e-01  20.63 
+2   3.9e-01  9.7e-02  1.2e-15  -5.90e-02  -2.329970795e+00  -1.213637791e+00  7.8e-02  36.24 
+3   1.9e-01  4.7e-02  2.1e-14  -2.77e-02  -2.920270661e+00  -1.747633778e+00  3.7e-02  52.88 
+4   1.6e-01  4.0e-02  3.2e-14  -1.45e-01  -3.184007545e+00  -1.970499980e+00  3.2e-02  69.40 
+5   7.7e-02  1.9e-02  1.7e-14  -1.66e-01  -4.812408742e+00  -3.333989742e+00  1.5e-02  85.75 
+6   4.5e-02  1.1e-02  5.3e-15  -1.93e-01  -6.656110894e+00  -5.066470114e+00  9.0e-03  102.08
+7   1.9e-02  4.7e-03  7.1e-15  -1.15e-01  -1.145058535e+01  -9.847800954e+00  3.7e-03  118.93
+8   1.3e-02  3.2e-03  3.1e-15  -9.72e-03  -1.759696284e+01  -1.596162938e+01  2.6e-03  134.98
+9   4.4e-03  1.1e-03  3.5e-15  -5.09e-02  -4.795557308e+01  -4.609887617e+01  8.8e-04  151.05
+10  2.5e-03  6.4e-04  3.3e-13  -1.28e-01  -9.554380947e+01  -9.331413201e+01  5.1e-04  167.39
+11  1.7e-03  4.3e-04  2.3e-13  -2.56e-01  -1.241008805e+02  -1.216903394e+02  3.4e-04  183.64
+12  6.9e-04  1.7e-04  8.1e-14  -9.36e-02  -1.730305416e+02  -1.709929963e+02  1.4e-04  200.59
+13  4.6e-04  1.2e-04  1.3e-14  4.72e-01   -1.601753563e+02  -1.587124223e+02  9.2e-05  216.43
+14  2.4e-04  6.1e-05  1.4e-15  6.90e-01   -1.277233830e+02  -1.269167274e+02  4.9e-05  233.10
+15  1.9e-04  4.8e-05  5.1e-15  9.62e-01   -1.180473492e+02  -1.174259938e+02  3.8e-05  250.26
+16  8.3e-05  2.1e-05  1.9e-15  8.57e-01   -8.239192707e+01  -8.205541361e+01  1.7e-05  268.39
+17  5.3e-05  1.3e-05  8.6e-16  1.04e+00   -6.816723750e+01  -6.795908502e+01  1.1e-05  286.59
+18  2.3e-05  5.7e-06  1.1e-16  8.32e-01   -4.995290584e+01  -4.983400398e+01  4.5e-06  303.74
+19  1.7e-05  4.2e-06  6.3e-16  1.02e+00   -4.463114696e+01  -4.454789733e+01  3.3e-06  322.20
+20  5.7e-06  1.4e-06  2.8e-16  8.36e-01   -3.380006455e+01  -3.376068748e+01  1.1e-06  340.07
+21  3.0e-06  7.6e-07  1.6e-15  7.55e-01   -2.959763805e+01  -2.957191724e+01  6.1e-07  358.49
+22  1.2e-06  3.1e-07  3.7e-16  7.32e-01   -2.548532316e+01  -2.547137766e+01  2.5e-07  376.75
+23  9.0e-07  2.3e-07  5.1e-17  7.51e-01   -2.451444215e+01  -2.450343277e+01  1.8e-07  394.44
+24  3.8e-07  9.6e-08  4.1e-17  6.55e-01   -2.237985282e+01  -2.237320421e+01  7.7e-08  411.60
+25  2.7e-07  6.8e-08  7.5e-17  7.57e-01   -2.173991009e+01  -2.173484113e+01  5.5e-08  429.13
+26  1.1e-07  2.7e-08  3.0e-17  6.72e-01   -2.049000707e+01  -2.048715620e+01  2.1e-08  448.38
+27  5.1e-08  1.3e-08  3.0e-17  6.22e-01   -1.983370430e+01  -1.983176068e+01  1.0e-08  467.20
+28  3.9e-08  9.7e-09  5.7e-17  7.02e-01   -1.964230849e+01  -1.964071216e+01  7.8e-09  484.66
+29  1.4e-08  3.6e-09  1.7e-17  6.27e-01   -1.914136083e+01  -1.914044735e+01  2.9e-09  501.23
+30  9.4e-09  2.4e-09  9.4e-18  5.75e-01   -1.898449765e+01  -1.898375004e+01  1.9e-09  518.73
+31  3.9e-09  1.4e-09  1.4e-18  5.49e-01   -1.873716188e+01  -1.873669058e+01  7.7e-10  536.68
+32  2.9e-09  2.7e-09  1.5e-18  6.23e-01   -1.867703190e+01  -1.867664021e+01  5.8e-10  555.44
+33  1.1e-09  1.5e-09  9.1e-19  5.69e-01   -1.853077380e+01  -1.853053000e+01  2.3e-10  573.52
+34  8.8e-10  4.1e-09  5.4e-19  5.88e-01   -1.850026840e+01  -1.850005850e+01  1.8e-10  591.26
+35  3.6e-10  1.2e-08  4.8e-19  5.34e-01   -1.841685819e+01  -1.841671925e+01  7.3e-11  609.05
+36  2.6e-10  9.4e-09  3.4e-19  6.10e-01   -1.839535556e+01  -1.839524330e+01  5.1e-11  627.63
+37  9.2e-11  5.6e-09  5.4e-20  5.54e-01   -1.834614794e+01  -1.834608442e+01  1.7e-11  644.54
+38  9.2e-11  5.6e-09  5.4e-20  5.54e-01   -1.834614794e+01  -1.834608442e+01  1.7e-11  804.05
+39  9.2e-11  5.6e-09  5.4e-20  5.54e-01   -1.834614794e+01  -1.834608442e+01  1.7e-11  969.96
+Optimizer terminated. Time: 1127.99 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.8346147942e+01   nrm: 2e+01    Viol.  con: 1e-05    var: 3e-06    barvar: 0e+00  
+  Dual.    obj: -1.8346084422e+01   nrm: 5e+04    Viol.  con: 0e+00    var: 2e-12    barvar: 1e-05  
+Optimizer summary
+  Optimizer                 -                        time: 1127.99 
+    Interior-point          - iterations : 40        time: 1127.97 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 858             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 858             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 858               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.25              dense det. time        : 0.00            
+Factor     - ML order time          : 0.06              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  5.44  
+1   2.1e+00  5.1e-01  1.1e-16  -3.29e-02  -1.387200738e+00  -3.400751938e-01  4.1e-01  21.86 
+2   3.9e-01  9.7e-02  3.3e-15  -5.90e-02  -2.328028292e+00  -1.212122993e+00  7.8e-02  39.58 
+3   1.9e-01  4.7e-02  6.9e-15  -2.78e-02  -2.923700389e+00  -1.751277642e+00  3.7e-02  56.37 
+4   1.6e-01  4.0e-02  4.4e-15  -1.45e-01  -3.196654658e+00  -1.982890417e+00  3.2e-02  73.30 
+5   8.9e-02  2.2e-02  1.8e-14  -1.67e-01  -4.453498766e+00  -3.035635512e+00  1.8e-02  89.56 
+6   3.8e-02  9.4e-03  8.4e-15  -1.97e-01  -7.244214422e+00  -5.589391157e+00  7.5e-03  105.81
+7   2.9e-02  7.2e-03  7.1e-15  -6.58e-02  -9.044076593e+00  -7.431300737e+00  5.8e-03  121.60
+8   1.1e-02  2.7e-03  5.4e-15  -2.90e-02  -1.883950585e+01  -1.733092202e+01  2.1e-03  138.90
+9   7.0e-03  1.8e-03  2.5e-14  -7.50e-02  -3.819838732e+01  -3.634193559e+01  1.4e-03  155.56
+10  2.6e-03  6.4e-04  1.0e-14  -1.24e-01  -1.011195029e+02  -9.894758337e+01  5.1e-04  172.46
+11  1.6e-03  4.0e-04  8.7e-14  -1.02e-01  -1.350037535e+02  -1.326395279e+02  3.2e-04  188.92
+12  7.1e-04  1.8e-04  3.4e-14  -4.77e-02  -1.738060196e+02  -1.718214580e+02  1.4e-04  205.30
+13  4.3e-04  1.1e-04  7.4e-14  4.91e-01   -1.543989023e+02  -1.531676362e+02  8.6e-05  220.51
+14  2.4e-04  6.0e-05  2.5e-14  7.37e-01   -1.258378839e+02  -1.250780068e+02  4.8e-05  238.45
+15  1.3e-04  3.3e-05  4.0e-15  8.83e-01   -9.603078238e+01  -9.559725671e+01  2.6e-05  256.87
+16  7.8e-05  2.0e-05  3.0e-15  9.01e-01   -7.741935111e+01  -7.714053790e+01  1.6e-05  276.17
+17  3.2e-05  8.1e-06  1.3e-15  8.72e-01   -5.383132182e+01  -5.369325055e+01  6.5e-06  294.16
+18  2.5e-05  6.1e-06  1.3e-15  1.04e+00   -4.884042369e+01  -4.873721202e+01  4.9e-06  312.74
+19  8.6e-06  2.1e-06  3.2e-16  8.49e-01   -3.581919348e+01  -3.576871464e+01  1.7e-06  330.82
+20  4.0e-06  1.0e-06  3.4e-16  8.42e-01   -2.977213834e+01  -2.974402186e+01  8.1e-07  350.34
+21  2.0e-06  5.0e-07  2.8e-16  7.08e-01   -2.620461055e+01  -2.618638098e+01  4.0e-07  369.69
+22  8.7e-07  2.2e-07  3.8e-17  6.84e-01   -2.320367037e+01  -2.319308287e+01  1.7e-07  387.45
+23  6.3e-07  1.6e-07  2.9e-17  7.82e-01   -2.237816727e+01  -2.237004402e+01  1.3e-07  405.75
+24  2.1e-07  5.3e-08  9.7e-18  6.71e-01   -2.036936317e+01  -2.036516893e+01  4.2e-08  422.10
+25  1.4e-07  3.4e-08  1.6e-16  7.08e-01   -1.982372013e+01  -1.982051451e+01  2.8e-08  439.22
+26  5.9e-08  1.5e-08  5.3e-17  6.17e-01   -1.900291990e+01  -1.900090224e+01  1.2e-08  456.18
+27  4.1e-08  1.0e-08  2.9e-17  7.16e-01   -1.875993894e+01  -1.875838095e+01  8.3e-09  473.05
+28  1.4e-08  3.5e-09  6.8e-18  6.29e-01   -1.822737734e+01  -1.822653016e+01  2.8e-09  488.95
+29  8.0e-09  2.5e-09  4.9e-19  5.86e-01   -1.803646443e+01  -1.803582009e+01  1.6e-09  505.01
+30  3.4e-09  8.3e-10  3.6e-18  5.61e-01   -1.781922707e+01  -1.781881933e+01  6.7e-10  522.13
+31  2.4e-09  9.8e-10  2.4e-19  6.30e-01   -1.775681514e+01  -1.775649058e+01  4.7e-10  538.45
+32  8.8e-10  1.7e-09  2.9e-19  5.63e-01   -1.762488092e+01  -1.762468304e+01  1.8e-10  554.72
+33  4.8e-10  2.1e-08  2.9e-19  5.62e-01   -1.756801384e+01  -1.756786884e+01  9.6e-11  573.53
+34  1.8e-10  5.5e-09  2.2e-20  5.38e-01   -1.750897597e+01  -1.750888720e+01  3.6e-11  593.69
+35  9.3e-11  2.5e-08  9.9e-19  5.83e-01   -1.748392434e+01  -1.748386383e+01  1.9e-11  611.64
+36  7.8e-11  2.4e-08  5.9e-19  5.67e-01   -1.747168495e+01  -1.747163662e+01  1.3e-11  655.38
+37  7.8e-11  2.4e-08  5.9e-19  5.67e-01   -1.747168495e+01  -1.747163662e+01  1.3e-11  819.11
+38  7.8e-11  2.4e-08  5.9e-19  5.67e-01   -1.747168495e+01  -1.747163662e+01  1.3e-11  984.46
+Optimizer terminated. Time: 1145.55 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.7471684948e+01   nrm: 3e+01    Viol.  con: 1e-05    var: 2e-06    barvar: 0e+00  
+  Dual.    obj: -1.7471636615e+01   nrm: 4e+04    Viol.  con: 0e+00    var: 1e-12    barvar: 7e-11  
+Optimizer summary
+  Optimizer                 -                        time: 1145.55 
+    Interior-point          - iterations : 39        time: 1145.51 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 854             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 854             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 854               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.23              dense det. time        : 0.00            
+Factor     - ML order time          : 0.06              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  4.28  
+1   2.1e+00  5.1e-01  0.0e+00  -1.78e-02  -1.393946793e+00  -3.404126771e-01  4.1e-01  15.13 
+2   3.9e-01  9.7e-02  1.3e-15  -6.29e-02  -2.332490169e+00  -1.205603305e+00  7.8e-02  28.61 
+3   1.9e-01  4.9e-02  1.8e-14  -2.52e-02  -2.886418691e+00  -1.710723852e+00  3.9e-02  42.39 
+4   1.7e-01  4.3e-02  1.8e-14  -1.36e-01  -3.089710992e+00  -1.881105271e+00  3.4e-02  56.41 
+5   8.8e-02  2.2e-02  2.2e-14  -1.53e-01  -4.465956717e+00  -3.038029350e+00  1.8e-02  72.20 
+6   4.6e-02  1.1e-02  1.1e-14  -2.03e-01  -6.585138483e+00  -4.967859378e+00  9.1e-03  88.07 
+7   2.0e-02  4.9e-03  8.2e-15  -1.21e-01  -1.089921567e+01  -9.303730333e+00  4.0e-03  103.45
+8   1.4e-02  3.6e-03  1.0e-14  -1.59e-05  -1.563050955e+01  -1.402950223e+01  2.9e-03  119.90
+9   4.9e-03  1.2e-03  1.6e-15  -1.66e-02  -4.221232684e+01  -4.048703269e+01  9.8e-04  136.03
+10  3.2e-03  7.9e-04  1.4e-13  -1.93e-01  -8.064332625e+01  -7.848551596e+01  6.3e-04  152.75
+11  1.7e-03  4.2e-04  8.4e-14  -3.27e-01  -1.349783317e+02  -1.323746377e+02  3.4e-04  168.80
+12  6.8e-04  1.7e-04  2.3e-14  -8.50e-02  -1.819316494e+02  -1.798016124e+02  1.4e-04  185.62
+13  4.0e-04  1.0e-04  2.1e-15  5.09e-01   -1.625308437e+02  -1.612176442e+02  8.0e-05  201.89
+14  2.3e-04  5.7e-05  5.6e-15  7.62e-01   -1.274430751e+02  -1.266397937e+02  4.6e-05  217.75
+15  1.8e-04  4.5e-05  7.2e-15  9.72e-01   -1.189202987e+02  -1.182720542e+02  3.6e-05  233.78
+16  7.9e-05  2.0e-05  1.1e-15  8.74e-01   -8.275330118e+01  -8.241504287e+01  1.6e-05  249.00
+17  5.3e-05  1.3e-05  6.7e-15  9.76e-01   -7.052105266e+01  -7.029609309e+01  1.1e-05  264.59
+18  2.0e-05  5.1e-06  2.0e-15  8.55e-01   -4.964635047e+01  -4.953516366e+01  4.1e-06  280.04
+19  1.5e-05  3.7e-06  2.8e-15  9.62e-01   -4.492322472e+01  -4.484239771e+01  3.0e-06  297.21
+20  5.2e-06  1.3e-06  4.8e-16  8.04e-01   -3.435735437e+01  -3.431737877e+01  1.0e-06  313.65
+21  3.0e-06  7.4e-07  1.5e-16  8.36e-01   -3.052315636e+01  -3.049756410e+01  5.9e-07  329.44
+22  1.3e-06  3.2e-07  2.5e-16  7.15e-01   -2.653279232e+01  -2.651765586e+01  2.6e-07  345.21
+23  9.5e-07  2.4e-07  4.0e-16  8.09e-01   -2.557843319e+01  -2.556672849e+01  1.9e-07  361.24
+24  3.4e-07  8.6e-08  1.2e-16  6.77e-01   -2.298532458e+01  -2.297891206e+01  6.8e-08  378.03
+25  2.3e-07  5.7e-08  1.7e-17  7.48e-01   -2.226471630e+01  -2.225996876e+01  4.5e-08  395.04
+26  8.4e-08  2.1e-08  6.9e-18  6.49e-01   -2.099594063e+01  -2.099324838e+01  1.7e-08  410.63
+27  5.7e-08  1.4e-08  4.6e-17  6.66e-01   -2.065492975e+01  -2.065282379e+01  1.1e-08  426.92
+28  2.2e-08  5.6e-09  4.3e-18  5.85e-01   -2.002515988e+01  -2.002386533e+01  4.5e-09  442.50
+29  1.5e-08  3.8e-09  1.8e-17  6.78e-01   -1.984688770e+01  -1.984588070e+01  3.1e-09  458.58
+30  5.7e-09  1.4e-09  5.2e-18  5.89e-01   -1.950074458e+01  -1.950014096e+01  1.1e-09  474.69
+31  4.1e-09  1.1e-09  9.3e-18  6.17e-01   -1.941097034e+01  -1.941047740e+01  8.1e-10  490.02
+32  1.6e-09  1.5e-09  3.0e-18  5.44e-01   -1.922713753e+01  -1.922682163e+01  3.2e-10  507.05
+33  1.1e-09  1.2e-08  1.5e-18  6.43e-01   -1.917645185e+01  -1.917619959e+01  2.3e-10  522.81
+34  4.1e-10  4.8e-09  4.1e-20  5.71e-01   -1.906671180e+01  -1.906656338e+01  8.1e-11  539.94
+35  2.4e-10  3.9e-08  9.0e-19  5.81e-01   -1.903231459e+01  -1.903220163e+01  4.7e-11  558.48
+36  1.1e-10  2.2e-08  5.0e-19  5.34e-01   -1.898542275e+01  -1.898535448e+01  1.8e-11  574.86
+37  9.6e-11  3.3e-08  6.8e-19  6.67e-01   -1.897378360e+01  -1.897373110e+01  1.3e-11  590.82
+38  9.6e-11  3.3e-08  7.2e-19  6.33e-01   -1.897311346e+01  -1.897306168e+01  1.3e-11  662.17
+39  9.6e-11  3.3e-08  7.6e-19  6.34e-01   -1.897294738e+01  -1.897289579e+01  1.2e-11  742.07
+40  9.6e-11  3.3e-08  8.5e-19  6.34e-01   -1.897290596e+01  -1.897285441e+01  1.2e-11  834.67
+41  9.6e-11  3.3e-08  8.5e-19  6.34e-01   -1.897290596e+01  -1.897285441e+01  1.2e-11  1001.36
+42  9.6e-11  3.3e-08  8.5e-19  6.34e-01   -1.897290596e+01  -1.897285441e+01  1.2e-11  1149.03
+Optimizer terminated. Time: 1273.24 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.8972905958e+01   nrm: 2e+01    Viol.  con: 1e-05    var: 2e-06    barvar: 0e+00  
+  Dual.    obj: -1.8972854405e+01   nrm: 5e+04    Viol.  con: 0e+00    var: 1e-12    barvar: 1e-10  
+Optimizer summary
+  Optimizer                 -                        time: 1273.24 
+    Interior-point          - iterations : 43        time: 1273.22 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 10 of 14 in STL ReLU network.
+exact reachability analysis for Layer 11 of 14 in STL ReLU network.
+exact reachability analysis for Layer 12 of 14 in STL ReLU network.
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 846             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 846             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 846               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.25              dense det. time        : 0.00            
+Factor     - ML order time          : 0.06              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  6.60  
+1   2.1e+00  5.1e-01  1.1e-16  -1.88e-02  -1.394082682e+00  -3.410708478e-01  4.1e-01  22.87 
+2   3.9e-01  9.7e-02  3.1e-15  -6.29e-02  -2.332679400e+00  -1.206745734e+00  7.8e-02  40.87 
+3   1.9e-01  4.7e-02  2.0e-14  -2.55e-02  -2.918646265e+00  -1.740650862e+00  3.7e-02  57.90 
+4   1.6e-01  4.0e-02  2.4e-14  -1.42e-01  -3.197917191e+00  -1.977357795e+00  3.2e-02  75.79 
+5   7.7e-02  1.9e-02  5.1e-15  -1.66e-01  -4.814910953e+00  -3.331786868e+00  1.5e-02  93.02 
+6   4.5e-02  1.1e-02  1.7e-14  -1.97e-01  -6.730613599e+00  -5.131264639e+00  8.9e-03  110.30
+7   1.8e-02  4.6e-03  1.1e-14  -1.03e-01  -1.149508034e+01  -9.914477033e+00  3.7e-03  128.60
+8   1.2e-02  3.1e-03  9.6e-15  6.99e-03   -1.754203182e+01  -1.594359791e+01  2.5e-03  146.27
+9   4.2e-03  1.0e-03  1.3e-14  -3.58e-02  -4.665464688e+01  -4.487346869e+01  8.3e-04  164.05
+10  2.5e-03  6.1e-04  2.1e-13  -8.91e-02  -8.491843250e+01  -8.285758505e+01  4.9e-04  181.66
+11  1.4e-03  3.6e-04  1.2e-13  -1.92e-01  -1.172564891e+02  -1.151034210e+02  2.8e-04  200.11
+12  6.1e-04  1.5e-04  4.5e-14  6.55e-02   -1.379484947e+02  -1.363827079e+02  1.2e-04  218.25
+13  3.9e-04  9.6e-05  2.6e-14  5.80e-01   -1.236844416e+02  -1.226506224e+02  7.7e-05  236.28
+14  2.1e-04  5.3e-05  1.1e-14  8.17e-01   -9.620800695e+01  -9.561661260e+01  4.3e-05  253.35
+15  1.8e-04  4.4e-05  7.6e-15  9.76e-01   -9.291200212e+01  -9.241405455e+01  3.5e-05  269.98
+16  7.7e-05  1.9e-05  3.8e-15  8.65e-01   -6.451761460e+01  -6.424649538e+01  1.5e-05  288.27
+17  5.0e-05  1.3e-05  5.1e-15  1.09e+00   -5.402033148e+01  -5.385184033e+01  1.0e-05  305.11
+18  2.0e-05  4.9e-06  1.4e-15  8.31e-01   -3.925509538e+01  -3.916411751e+01  3.9e-06  323.04
+19  1.4e-05  3.5e-06  1.6e-15  9.70e-01   -3.524469383e+01  -3.518155023e+01  2.8e-06  341.37
+20  5.2e-06  1.3e-06  3.6e-16  8.03e-01   -2.760219438e+01  -2.756985289e+01  1.0e-06  357.72
+21  3.8e-06  9.5e-07  4.4e-16  8.55e-01   -2.584167320e+01  -2.581728712e+01  7.6e-07  375.83
+22  1.5e-06  3.6e-07  9.5e-17  7.30e-01   -2.200772527e+01  -2.199440991e+01  2.9e-07  394.42
+23  1.0e-06  2.5e-07  1.4e-16  8.11e-01   -2.101829493e+01  -2.100817417e+01  2.0e-07  412.80
+24  3.8e-07  9.5e-08  3.1e-17  6.86e-01   -1.900687345e+01  -1.900129297e+01  7.6e-08  430.04
+25  2.6e-07  6.6e-08  2.0e-17  7.02e-01   -1.846867154e+01  -1.846428035e+01  5.3e-08  445.53
+26  1.1e-07  2.7e-08  2.1e-17  6.19e-01   -1.746348383e+01  -1.746083548e+01  2.2e-08  462.49
+27  7.7e-08  1.9e-08  5.8e-18  7.02e-01   -1.719132585e+01  -1.718927664e+01  1.5e-08  478.97
+28  2.9e-08  7.3e-09  7.3e-19  5.99e-01   -1.660838096e+01  -1.660715855e+01  5.8e-09  496.01
+29  2.0e-08  5.0e-09  1.3e-17  6.70e-01   -1.644709035e+01  -1.644613171e+01  4.0e-09  512.34
+30  7.8e-09  1.9e-09  1.0e-17  5.86e-01   -1.614056299e+01  -1.613997856e+01  1.6e-09  528.76
+31  5.6e-09  3.0e-09  8.5e-18  6.31e-01   -1.606368116e+01  -1.606320512e+01  1.1e-09  545.47
+32  2.4e-09  1.1e-09  2.2e-18  5.51e-01   -1.590370915e+01  -1.590339447e+01  4.7e-10  562.13
+33  1.8e-09  4.4e-09  4.2e-18  6.57e-01   -1.586163868e+01  -1.586138422e+01  3.5e-10  578.29
+34  6.3e-10  2.9e-09  1.5e-18  5.77e-01   -1.575795803e+01  -1.575780737e+01  1.3e-10  594.82
+35  4.2e-10  3.5e-08  1.8e-18  5.96e-01   -1.573168307e+01  -1.573156202e+01  8.3e-11  614.06
+36  1.6e-10  1.7e-08  5.0e-19  5.23e-01   -1.568285995e+01  -1.568278462e+01  3.2e-11  629.52
+37  1.1e-10  2.1e-08  1.4e-18  6.50e-01   -1.567081422e+01  -1.567075554e+01  2.2e-11  645.34
+38  1.0e-10  1.3e-08  8.9e-19  6.08e-01   -1.565875487e+01  -1.565870911e+01  1.5e-11  688.16
+39  1.0e-10  1.3e-08  8.9e-19  6.08e-01   -1.565875487e+01  -1.565870911e+01  1.5e-11  845.31
+40  1.0e-10  1.3e-08  8.9e-19  6.08e-01   -1.565875487e+01  -1.565870911e+01  1.5e-11  960.50
+Optimizer terminated. Time: 1070.16 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.5658754874e+01   nrm: 3e+01    Viol.  con: 1e-05    var: 2e-06    barvar: 0e+00  
+  Dual.    obj: -1.5658709107e+01   nrm: 4e+04    Viol.  con: 0e+00    var: 1e-12    barvar: 1e-10  
+Optimizer summary
+  Optimizer                 -                        time: 1070.16 
+    Interior-point          - iterations : 41        time: 1070.13 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+
+exact reachability analysis for Layer 13 of 14 in STL ReLU network.
+exact reachability analysis for Layer 14 of 14 in STL ReLU network.
+pre-activation computation is in process ...
+
+MOSEK Version 10.0.26 (Build date: 2022-10-24 10:00:43)
+Copyright (c) MOSEK ApS, Denmark WWW: mosek.com
+Platform: Linux/64-X86
+
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 854             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer started.
+Presolve started.
+Linear dependency checker started.
+Linear dependency checker terminated.
+Eliminator started.
+Freed constraints in eliminator : 0
+Eliminator terminated.
+Eliminator - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - tries                  : 1                 time                   : 0.00            
+Lin. dep.  - number                 : 0               
+Presolve terminated. Time: 0.00    
+GP based matrix reordering started.
+GP based matrix reordering terminated.
+Problem
+  Name                   :                 
+  Objective sense        : minimize        
+  Type                   : CONIC (conic optimization problem)
+  Constraints            : 2097            
+  Affine conic cons.     : 0               
+  Disjunctive cons.      : 0               
+  Cones                  : 0               
+  Scalar variables       : 854             
+  Matrix variables       : 1               
+  Integer variables      : 0               
+
+Optimizer  - threads                : 24              
+Optimizer  - solved problem         : the primal      
+Optimizer  - Constraints            : 2097
+Optimizer  - Cones                  : 0
+Optimizer  - Scalar variables       : 854               conic                  : 0               
+Optimizer  - Semi-definite variables: 1                 scalarized             : 2210253         
+Factor     - setup time             : 0.23              dense det. time        : 0.00            
+Factor     - ML order time          : 0.05              GP order time          : 0.00            
+Factor     - nonzeros before factor : 2.20e+06          after factor           : 2.20e+06        
+Factor     - dense dim.             : 0                 flops                  : 4.27e+09        
+ITE PFEAS    DFEAS    GFEAS    PRSTATUS   POBJ              DOBJ              MU       TIME  
+0   5.0e+00  1.2e+00  0.0e+00  0.00e+00   -1.000000000e+00  0.000000000e+00   1.0e+00  5.46  
+1   2.1e+00  5.1e-01  1.1e-16  4.08e-03   -1.399819825e+00  -3.522332252e-01  4.1e-01  19.38 
+2   3.9e-01  9.7e-02  1.3e-15  -5.35e-02  -2.349206933e+00  -1.236082350e+00  7.8e-02  34.82 
+3   1.9e-01  4.7e-02  7.2e-15  -2.47e-02  -2.932096042e+00  -1.768038793e+00  3.8e-02  51.16 
+4   1.6e-01  4.1e-02  1.2e-14  -1.43e-01  -3.175223489e+00  -1.973279954e+00  3.3e-02  67.96 
+5   7.0e-02  1.7e-02  1.4e-14  -1.63e-01  -5.054782731e+00  -3.552124118e+00  1.4e-02  83.47 
+6   4.5e-02  1.1e-02  1.2e-14  -1.87e-01  -6.650228467e+00  -5.076895050e+00  8.9e-03  99.14 
+7   2.0e-02  5.0e-03  1.4e-15  -1.22e-01  -1.108793746e+01  -9.482718410e+00  4.0e-03  114.15
+8   1.4e-02  3.5e-03  1.5e-14  -2.61e-02  -1.632335537e+01  -1.470411900e+01  2.8e-03  129.80
+9   4.8e-03  1.2e-03  6.2e-16  -5.67e-02  -4.434838912e+01  -4.251404188e+01  9.5e-04  145.60
+10  2.8e-03  7.1e-04  3.8e-14  -1.48e-01  -9.059232066e+01  -8.838678056e+01  5.7e-04  161.05
+11  1.8e-03  4.4e-04  3.6e-14  -2.96e-01  -1.285873241e+02  -1.260686879e+02  3.5e-04  176.69
+12  7.4e-04  1.8e-04  4.0e-15  -1.06e-01  -1.733574543e+02  -1.712119010e+02  1.5e-04  192.70
+13  5.1e-04  1.3e-04  1.5e-14  4.70e-01   -1.614459163e+02  -1.599174923e+02  1.0e-04  208.14
+14  2.6e-04  6.4e-05  5.6e-15  6.43e-01   -1.273999129e+02  -1.265516251e+02  5.1e-05  223.46
+15  1.9e-04  4.8e-05  9.2e-15  9.56e-01   -1.165714289e+02  -1.159467666e+02  3.9e-05  239.29
+16  8.5e-05  2.1e-05  2.7e-15  8.55e-01   -8.138064115e+01  -8.103967637e+01  1.7e-05  254.71
+17  5.1e-05  1.3e-05  5.1e-15  1.02e+00   -6.505032728e+01  -6.485328922e+01  1.0e-05  270.77
+18  2.1e-05  5.4e-06  1.8e-15  8.36e-01   -4.710005836e+01  -4.699081484e+01  4.3e-06  287.73
+19  1.6e-05  3.9e-06  3.4e-16  1.02e+00   -4.232875647e+01  -4.224995916e+01  3.2e-06  304.39
+20  5.7e-06  1.4e-06  5.5e-18  8.50e-01   -3.236240310e+01  -3.232471190e+01  1.1e-06  320.78
+21  2.8e-06  6.9e-07  6.4e-16  7.28e-01   -2.789404996e+01  -2.787012803e+01  5.5e-07  337.30
+22  1.6e-06  4.1e-07  2.7e-16  7.93e-01   -2.543334177e+01  -2.541754510e+01  3.3e-07  354.06
+23  7.1e-07  1.8e-07  1.4e-16  6.89e-01   -2.277082996e+01  -2.276142870e+01  1.4e-07  369.63
+24  5.3e-07  1.3e-07  5.3e-17  7.75e-01   -2.214528660e+01  -2.213774272e+01  1.1e-07  386.32
+25  1.9e-07  4.8e-08  3.9e-18  6.88e-01   -2.039868534e+01  -2.039471039e+01  3.9e-08  403.13
+26  1.3e-07  3.3e-08  1.9e-17  6.99e-01   -1.993010849e+01  -1.992695431e+01  2.6e-08  420.51
+27  5.2e-08  1.3e-08  1.7e-17  6.35e-01   -1.908971308e+01  -1.908786884e+01  1.0e-08  437.87
+28  3.6e-08  9.1e-09  2.7e-17  6.83e-01   -1.885338024e+01  -1.885193304e+01  7.3e-09  455.45
+29  1.4e-08  3.4e-09  9.5e-18  6.06e-01   -1.839133708e+01  -1.839047371e+01  2.7e-09  473.35
+30  9.2e-09  3.3e-09  5.8e-18  6.35e-01   -1.825675977e+01  -1.825608186e+01  1.8e-09  491.03
+31  3.4e-09  8.7e-10  1.7e-18  5.73e-01   -1.801034282e+01  -1.800993485e+01  6.8e-10  509.42
+32  2.3e-09  2.1e-09  1.1e-17  6.01e-01   -1.793817513e+01  -1.793784882e+01  4.6e-10  528.36
+33  9.1e-10  6.6e-09  1.7e-18  5.50e-01   -1.781454882e+01  -1.781434298e+01  1.8e-10  546.86
+34  5.5e-10  5.1e-09  7.0e-19  5.70e-01   -1.776536366e+01  -1.776520624e+01  1.1e-10  565.70
+35  2.0e-10  6.1e-09  1.4e-20  5.45e-01   -1.770362524e+01  -1.770353042e+01  4.1e-11  584.44
+36  1.4e-10  8.6e-09  1.1e-18  6.11e-01   -1.768866726e+01  -1.768859090e+01  2.9e-11  604.44
+37  1.1e-10  2.5e-08  1.6e-19  5.65e-01   -1.765450026e+01  -1.765445849e+01  1.0e-11  623.34
+38  1.1e-10  2.5e-08  1.6e-19  5.65e-01   -1.765450026e+01  -1.765445849e+01  1.0e-11  787.06
+39  1.1e-10  2.7e-08  1.8e-19  9.77e-01   -1.765417112e+01  -1.765413022e+01  9.8e-12  856.09
+40  1.1e-10  2.6e-08  1.1e-19  9.79e-01   -1.765415076e+01  -1.765410993e+01  9.8e-12  957.89
+41  1.1e-10  2.6e-08  2.1e-19  9.79e-01   -1.765414059e+01  -1.765409978e+01  9.8e-12  1059.26
+42  1.1e-10  2.6e-08  1.6e-19  9.79e-01   -1.765413551e+01  -1.765409471e+01  9.8e-12  1150.75
+43  1.1e-10  2.6e-08  1.8e-19  9.79e-01   -1.765413535e+01  -1.765409456e+01  9.8e-12  1238.47
+44  1.1e-10  2.6e-08  1.8e-19  9.79e-01   -1.765413533e+01  -1.765409454e+01  9.8e-12  1331.19
+45  1.1e-10  2.6e-08  1.7e-19  9.79e-01   -1.765413531e+01  -1.765409452e+01  9.8e-12  1415.72
+46  1.1e-10  2.6e-08  1.8e-19  9.79e-01   -1.765413529e+01  -1.765409450e+01  9.8e-12  1499.71
+47  1.1e-10  2.6e-08  1.8e-19  9.79e-01   -1.765413529e+01  -1.765409450e+01  9.8e-12  1588.72
+48  1.1e-10  2.6e-08  1.8e-19  9.79e-01   -1.765413529e+01  -1.765409450e+01  9.8e-12  1677.04
+Optimizer terminated. Time: 1775.07 
+
+
+Interior-point solution summary
+  Problem status  : PRIMAL_AND_DUAL_FEASIBLE
+  Solution status : OPTIMAL
+  Primal.  obj: -1.7654135293e+01   nrm: 3e+01    Viol.  con: 6e-05    var: 4e-06    barvar: 0e+00  
+  Dual.    obj: -1.7654094497e+01   nrm: 4e+04    Viol.  con: 0e+00    var: 1e-12    barvar: 7e-11  
+Optimizer summary
+  Optimizer                 -                        time: 1775.07 
+    Interior-point          - iterations : 49        time: 1775.04 
+      Basis identification  -                        time: 0.00    
+        Primal              - iterations : 0         time: 0.00    
+        Dual                - iterations : 0         time: 0.00    
+        Clean primal        - iterations : 0         time: 0.00    
+        Clean dual          - iterations : 0         time: 0.00    
+    Simplex                 -                        time: 0.00    
+      Primal simplex        - iterations : 0         time: 0.00    
+      Dual simplex          - iterations : 0         time: 0.00    
+    Mixed integer           - relaxations: 0         time: 0.00    
+

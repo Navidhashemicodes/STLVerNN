@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=24
+#SBATCH --mem=0
+#SBATCH --time=48:00:00
+#SBATCH --account=jdeshmuk_786
+
+module purge
+module load matlab/2020b
+
+matlab -batch 'Test_adaptive2'
